@@ -1,0 +1,26 @@
+/Users/abhi/Projects/CDIAC/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Data.deps.json
+/Users/abhi/Projects/CDIAC/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Data.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Data.pdb
+/Users/abhi/Projects/CDIAC/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.csproj.AssemblyReference.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhi/Projects/CDIAC/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.AssemblyInfoInputs.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.AssemblyInfo.cs
+/Users/abhi/Projects/CDIAC/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.csproj.CoreCompileInputs.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.pdb
+/Users/abhi/Projects/CDIAC/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Common.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Common.pdb
+/Users/abhi/Projects/CDIAC/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.csproj.CopyComplete
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Data.deps.json
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Data.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Data.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Common.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/bin/Debug/netcoreapp3.1/CDIAC.Common.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.csproj.AssemblyReference.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.AssemblyInfoInputs.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.AssemblyInfo.cs
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.csproj.CoreCompileInputs.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.csproj.CopyComplete
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Data/obj/Debug/netcoreapp3.1/CDIAC.Data.pdb

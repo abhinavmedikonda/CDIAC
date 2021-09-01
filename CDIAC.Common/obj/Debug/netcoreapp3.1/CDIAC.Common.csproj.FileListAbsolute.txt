@@ -1,0 +1,20 @@
+/Users/abhi/Projects/CDIAC/CDIAC.Common/bin/Debug/netcoreapp3.1/CDIAC.Common.deps.json
+/Users/abhi/Projects/CDIAC/CDIAC.Common/bin/Debug/netcoreapp3.1/CDIAC.Common.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Common/bin/Debug/netcoreapp3.1/CDIAC.Common.pdb
+/Users/abhi/Projects/CDIAC/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.csproj.AssemblyReference.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhi/Projects/CDIAC/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.AssemblyInfoInputs.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.AssemblyInfo.cs
+/Users/abhi/Projects/CDIAC/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.csproj.CoreCompileInputs.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/bin/Debug/netcoreapp3.1/CDIAC.Common.deps.json
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/bin/Debug/netcoreapp3.1/CDIAC.Common.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/bin/Debug/netcoreapp3.1/CDIAC.Common.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.csproj.AssemblyReference.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.AssemblyInfoInputs.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.AssemblyInfo.cs
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.csproj.CoreCompileInputs.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Common/obj/Debug/netcoreapp3.1/CDIAC.Common.pdb

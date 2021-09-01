@@ -1,0 +1,94 @@
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.deps.json
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.runtimeconfig.json
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.runtimeconfig.dev.json
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.pdb
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.csproj.AssemblyReference.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.AssemblyInfoInputs.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.AssemblyInfo.cs
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.csproj.CoreCompileInputs.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/staticwebassets/CDIAC.Api.StaticWebAssets.Manifest.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/staticwebassets/CDIAC.Api.StaticWebAssets.xml
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/CDIAC.Api.styles.css
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.RazorTargetAssemblyInfo.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.pdb
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.genruntimeconfig.cache
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/abhi/Projects/CDIAC/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.csproj.CopyComplete
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/MailKit.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Common.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Common.pdb
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Common.Logging.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Common.Logging.Core.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.barcodes.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.forms.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.io.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.kernel.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.layout.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.pdfa.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.sign.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.styledxmlparser.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.svg.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Data.dll
+/Users/abhi/Projects/CDIAC/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Data.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.deps.json
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.runtimeconfig.json
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.runtimeconfig.dev.json
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Api.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Common.Logging.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Common.Logging.Core.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.barcodes.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.forms.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.io.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.kernel.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.layout.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.pdfa.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.sign.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.styledxmlparser.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/itext.svg.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/MailKit.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Common.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Data.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Common.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/bin/Debug/netcoreapp3.1/CDIAC.Data.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.csproj.AssemblyReference.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.AssemblyInfoInputs.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.AssemblyInfo.cs
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.csproj.CoreCompileInputs.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/staticwebassets/CDIAC.Api.StaticWebAssets.Manifest.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/staticwebassets/CDIAC.Api.StaticWebAssets.xml
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/scopedcss/bundle/CDIAC.Api.styles.css
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.RazorTargetAssemblyInfo.cache
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.csproj.CopyComplete
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.dll
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.pdb
+/Users/abhi/Projects/CDIAC copy/CDIAC.Api/obj/Debug/netcoreapp3.1/CDIAC.Api.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Models\" />
+    <None Remove="Constants\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="Models\Mail\" />
+    <None Remove="Microsoft.AspNetCore.App" />
+    <None Remove="MailKit" />
+    <None Remove="Models\Base\" />
+    <None Remove="itext7" />
+    <None Remove="Models\Admin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Models\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="Models\MailService\" />
+    <Folder Include="Models\Application\" />
+    <Folder Include="Models\Admin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+    <PackageReference Include="MailKit" Version="2.15.0" />
+    <PackageReference Include="itext7" Version="7.1.16" />
+  </ItemGroup>
+</Project>
